@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nohovskyi/events-board-react/static/css/main.c7cb148b.css",
+    "main.js": "/Nohovskyi/events-board-react/static/js/main.9e0b2311.js",
+    "index.html": "/Nohovskyi/events-board-react/index.html",
+    "main.c7cb148b.css.map": "/Nohovskyi/events-board-react/static/css/main.c7cb148b.css.map",
+    "main.9e0b2311.js.map": "/Nohovskyi/events-board-react/static/js/main.9e0b2311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7cb148b.css",
+    "static/js/main.9e0b2311.js"
+  ]
+}
